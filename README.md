@@ -5,6 +5,7 @@ All engineering students have to go through this phase where they need to code O
 - CPU scheduling algorithms
   - Shortest job first (non preemptive)
   - Round robin (preemptive)
+  - Priority (non preemptive)
 
 - Disk scheduling algorithms
   - Shortest seek time first 
