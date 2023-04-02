@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 int initialPosition, numberOfSeeks, cylinders[10], totalHeadMovements = 0, totalSeekTime = 0;
+
 struct Cylinder {
     int cylinder, distance;
     _Bool visited;
