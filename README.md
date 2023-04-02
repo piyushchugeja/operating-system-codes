@@ -11,3 +11,5 @@ All engineering students have to go through this phase where they need to code O
   - First come first serve
 
 - Deadlock avoidance: safety algorithm (also known as Bankers algorithm)
+
+- Producer consumer problem using semaphores
