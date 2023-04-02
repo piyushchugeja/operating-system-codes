@@ -12,4 +12,9 @@ All engineering students have to go through this phase where they need to code O
 
 - Deadlock avoidance: safety algorithm (also known as Bankers algorithm)
 
+- Memory management algorithms
+  - First fit
+  - Best fit
+  - Worst fit
+
 - Producer consumer problem using semaphores
