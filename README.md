@@ -11,6 +11,21 @@ All engineering students have to go through this phase where they need to code O
   - Shortest seek time first 
   - First come first serve
 
+- Memory management algorithms
+  - First fit
+  - Best fit
+  - Worst fit  
+
+- Page Replacement algorithms
+  - FIFO
+  - LRU
+  - Optimal   
+
+- Disk Scheduling algorithms
+  - FCFS
+  - SCAN
+  - CSCAN  
+
 - Deadlock avoidance: safety algorithm (also known as Bankers algorithm)
 
 - Memory management algorithms
